@@ -85,5 +85,5 @@ Welcome to **Sweet Tooth**, an out-of-this-world Sweet Shop Management System. T
 ## Author
 
 - Rishant Kumar Singh
-This project is built as part of the Incubyte TDD Kata Assessment.
+
 
