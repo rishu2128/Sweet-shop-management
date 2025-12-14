@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
+@import './variables.css';
+@import './animations.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--color-bg-dark);
+    color: var(--color-text-main);
+    font-family: var(--font-main);
+
+    background-image:
+        radial-gradient(circle at 15% 50%, rgba(60, 126, 190, 0.2) 0%, transparent 25%),
+        radial-gradient(circle at 85% 30%, rgba(190, 60, 136, 0.2) 0%, transparent 25%);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+button {
+    font-family: var(--font-main);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
