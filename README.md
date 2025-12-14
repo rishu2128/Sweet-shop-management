@@ -56,7 +56,25 @@ Welcome to **Sweet Tooth**, an out-of-this-world Sweet Shop Management System. T
 
 **Application Login Page**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/8ab346a0-ceb1-469c-9554-8a0baba461a1" />
+
+**Aplication Dashboard**
+
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/8684ca65-5753-4e4f-844e-950ad4a5d841" />
+
+**Search Sweet**
+
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/afd077ba-7dd6-4dec-9946-01d3de37eeda" />
+
+**Restock Sweets(Admin Only)**
+
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/396c2369-8164-4575-965f-a253d133bc4d" />
+
+**Delete Sweets(Admin Only)**
+
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/671bdba2-ce85-4550-bba7-d8cc03cebca9" />
+
+
 
 
 
